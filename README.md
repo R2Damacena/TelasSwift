@@ -1,6 +1,6 @@
 # Teste de Criação de Telas em Swift
 
-Este repositório contém um teste de criação de telas em Swift, utilizando o framework UIKit. O objetivo deste teste é avaliar a habilidade de criação de interfaces de usuário utilizando a linguagem Swift e as ferramentas fornecidas pela Apple.
+Este repositório contém um teste de criação de telas em Swift, utilizando o framework UIKit. O objetivo deste teste foi avaliar a habilidade de criação de interfaces de usuário utilizando a linguagem Swift e as ferramentas fornecidas pela Apple.
 
 ## Requisitos
 
