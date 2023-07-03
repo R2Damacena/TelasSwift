@@ -17,6 +17,17 @@
 		05CC74A22A52F32700903962 /* TelasSwiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05CC74A12A52F32700903962 /* TelasSwiftTests.swift */; };
 		05CC74AC2A52F32700903962 /* TelasSwiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05CC74AB2A52F32700903962 /* TelasSwiftUITests.swift */; };
 		05CC74AE2A52F32700903962 /* TelasSwiftUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05CC74AD2A52F32700903962 /* TelasSwiftUITestsLaunchTests.swift */; };
+		05CC74BE2A52F4C600903962 /* AzulCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05CC74BD2A52F4C600903962 /* AzulCoordinator.swift */; };
+		05CC74C02A52F54400903962 /* Coordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05CC74BF2A52F54400903962 /* Coordinator.swift */; };
+		05CC74C32A52F59C00903962 /* AzulView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05CC74C22A52F59C00903962 /* AzulView.swift */; };
+		05CC74C52A52F5AE00903962 /* AzulViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05CC74C42A52F5AE00903962 /* AzulViewController.swift */; };
+		05CC74C82A52F7CD00903962 /* ButtonDefault.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05CC74C72A52F7CD00903962 /* ButtonDefault.swift */; };
+		05CC74CA2A52F90700903962 /* VerdeCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05CC74C92A52F90700903962 /* VerdeCoordinator.swift */; };
+		05CC74CC2A52F91500903962 /* VerdeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05CC74CB2A52F91500903962 /* VerdeView.swift */; };
+		05CC74CE2A52F92000903962 /* VerdeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05CC74CD2A52F92000903962 /* VerdeViewController.swift */; };
+		05CC74D02A52FDDA00903962 /* VermelhaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05CC74CF2A52FDDA00903962 /* VermelhaView.swift */; };
+		05CC74D22A52FDED00903962 /* VermelhaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05CC74D12A52FDED00903962 /* VermelhaViewController.swift */; };
+		05CC74D42A52FDFC00903962 /* VermelhaCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05CC74D32A52FDFC00903962 /* VermelhaCoordinator.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +62,17 @@
 		05CC74A72A52F32700903962 /* TelasSwiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TelasSwiftUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		05CC74AB2A52F32700903962 /* TelasSwiftUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TelasSwiftUITests.swift; sourceTree = "<group>"; };
 		05CC74AD2A52F32700903962 /* TelasSwiftUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TelasSwiftUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		05CC74BD2A52F4C600903962 /* AzulCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AzulCoordinator.swift; sourceTree = "<group>"; };
+		05CC74BF2A52F54400903962 /* Coordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Coordinator.swift; sourceTree = "<group>"; };
+		05CC74C22A52F59C00903962 /* AzulView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AzulView.swift; sourceTree = "<group>"; };
+		05CC74C42A52F5AE00903962 /* AzulViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AzulViewController.swift; sourceTree = "<group>"; };
+		05CC74C72A52F7CD00903962 /* ButtonDefault.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonDefault.swift; sourceTree = "<group>"; };
+		05CC74C92A52F90700903962 /* VerdeCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VerdeCoordinator.swift; sourceTree = "<group>"; };
+		05CC74CB2A52F91500903962 /* VerdeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VerdeView.swift; sourceTree = "<group>"; };
+		05CC74CD2A52F92000903962 /* VerdeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VerdeViewController.swift; sourceTree = "<group>"; };
+		05CC74CF2A52FDDA00903962 /* VermelhaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VermelhaView.swift; sourceTree = "<group>"; };
+		05CC74D12A52FDED00903962 /* VermelhaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VermelhaViewController.swift; sourceTree = "<group>"; };
+		05CC74D32A52FDFC00903962 /* VermelhaCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VermelhaCoordinator.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,14 +123,9 @@
 		05CC74862A52F32300903962 /* TelasSwift */ = {
 			isa = PBXGroup;
 			children = (
-				05CC74872A52F32300903962 /* AppDelegate.swift */,
-				05CC74892A52F32300903962 /* SceneDelegate.swift */,
-				05CC748B2A52F32300903962 /* ViewController.swift */,
-				05CC748D2A52F32300903962 /* Main.storyboard */,
-				05CC74932A52F32600903962 /* Assets.xcassets */,
-				05CC74952A52F32600903962 /* LaunchScreen.storyboard */,
+				05CC74BC2A52F45800903962 /* Resource */,
+				05CC74BB2A52F44A00903962 /* Source */,
 				05CC74982A52F32600903962 /* Info.plist */,
-				05CC74902A52F32300903962 /* TelasSwift.xcdatamodeld */,
 			);
 			path = TelasSwift;
 			sourceTree = "<group>";
@@ -128,6 +145,86 @@
 				05CC74AD2A52F32700903962 /* TelasSwiftUITestsLaunchTests.swift */,
 			);
 			path = TelasSwiftUITests;
+			sourceTree = "<group>";
+		};
+		05CC74BA2A52F43700903962 /* Coordinator */ = {
+			isa = PBXGroup;
+			children = (
+				05CC74BD2A52F4C600903962 /* AzulCoordinator.swift */,
+				05CC74BF2A52F54400903962 /* Coordinator.swift */,
+				05CC74C92A52F90700903962 /* VerdeCoordinator.swift */,
+				05CC74D32A52FDFC00903962 /* VermelhaCoordinator.swift */,
+			);
+			path = Coordinator;
+			sourceTree = "<group>";
+		};
+		05CC74BB2A52F44A00903962 /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				05CC74C62A52F7AC00903962 /* Infrastructure */,
+				05CC74C12A52F57800903962 /* Controller */,
+				05CC74BA2A52F43700903962 /* Coordinator */,
+			);
+			path = Source;
+			sourceTree = "<group>";
+		};
+		05CC74BC2A52F45800903962 /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+				05CC74902A52F32300903962 /* TelasSwift.xcdatamodeld */,
+				05CC74872A52F32300903962 /* AppDelegate.swift */,
+				05CC74892A52F32300903962 /* SceneDelegate.swift */,
+				05CC748B2A52F32300903962 /* ViewController.swift */,
+				05CC748D2A52F32300903962 /* Main.storyboard */,
+				05CC74932A52F32600903962 /* Assets.xcassets */,
+				05CC74952A52F32600903962 /* LaunchScreen.storyboard */,
+			);
+			path = Resource;
+			sourceTree = "<group>";
+		};
+		05CC74C12A52F57800903962 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				05CC74D72A530C2000903962 /* Vermelha */,
+				05CC74D62A530C1400903962 /* Verde */,
+				05CC74D52A530BF200903962 /* Azul */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		05CC74C62A52F7AC00903962 /* Infrastructure */ = {
+			isa = PBXGroup;
+			children = (
+				05CC74C72A52F7CD00903962 /* ButtonDefault.swift */,
+			);
+			path = Infrastructure;
+			sourceTree = "<group>";
+		};
+		05CC74D52A530BF200903962 /* Azul */ = {
+			isa = PBXGroup;
+			children = (
+				05CC74C42A52F5AE00903962 /* AzulViewController.swift */,
+				05CC74C22A52F59C00903962 /* AzulView.swift */,
+			);
+			path = Azul;
+			sourceTree = "<group>";
+		};
+		05CC74D62A530C1400903962 /* Verde */ = {
+			isa = PBXGroup;
+			children = (
+				05CC74CD2A52F92000903962 /* VerdeViewController.swift */,
+				05CC74CB2A52F91500903962 /* VerdeView.swift */,
+			);
+			path = Verde;
+			sourceTree = "<group>";
+		};
+		05CC74D72A530C2000903962 /* Vermelha */ = {
+			isa = PBXGroup;
+			children = (
+				05CC74D12A52FDED00903962 /* VermelhaViewController.swift */,
+				05CC74CF2A52FDDA00903962 /* VermelhaView.swift */,
+			);
+			path = Vermelha;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -262,9 +359,20 @@
 			buildActionMask = 2147483647;
 			files = (
 				05CC748C2A52F32300903962 /* ViewController.swift in Sources */,
+				05CC74C82A52F7CD00903962 /* ButtonDefault.swift in Sources */,
+				05CC74D22A52FDED00903962 /* VermelhaViewController.swift in Sources */,
+				05CC74BE2A52F4C600903962 /* AzulCoordinator.swift in Sources */,
+				05CC74CC2A52F91500903962 /* VerdeView.swift in Sources */,
+				05CC74CA2A52F90700903962 /* VerdeCoordinator.swift in Sources */,
+				05CC74C02A52F54400903962 /* Coordinator.swift in Sources */,
+				05CC74C32A52F59C00903962 /* AzulView.swift in Sources */,
 				05CC74922A52F32300903962 /* TelasSwift.xcdatamodeld in Sources */,
 				05CC74882A52F32300903962 /* AppDelegate.swift in Sources */,
+				05CC74D42A52FDFC00903962 /* VermelhaCoordinator.swift in Sources */,
+				05CC74CE2A52F92000903962 /* VerdeViewController.swift in Sources */,
+				05CC74C52A52F5AE00903962 /* AzulViewController.swift in Sources */,
 				05CC748A2A52F32300903962 /* SceneDelegate.swift in Sources */,
+				05CC74D02A52FDDA00903962 /* VermelhaView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
