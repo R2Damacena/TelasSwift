@@ -46,8 +46,8 @@ class VerdeView: UIView{
             buttonAzul.widthAnchor.constraint(equalToConstant: 274.99),
             buttonAzul.heightAnchor.constraint(equalToConstant: 82.64),
             buttonAzul.topAnchor.constraint(equalTo: buttonVermelho.bottomAnchor, constant: 25),
-            buttonAzul.leadingAnchor.constraint(equalTo: self.leadingAnchor, constant: 16),
-            buttonAzul.trailingAnchor.constraint(equalTo: self.trailingAnchor, constant: -16),
+            buttonAzul.leadingAnchor.constraint(equalTo: self.leadingAnchor, constant: 57),
+            buttonAzul.trailingAnchor.constraint(equalTo: self.trailingAnchor, constant: -57),
             
             
             
